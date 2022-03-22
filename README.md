@@ -14,7 +14,12 @@ Machine learning data is typically composed of a series of examples. We'll call 
 You can preload the data, pattern by pattern, or load an entire set of examples at training time. In each case, the system will need to know how to extract patterns, and how to find the individual data items, and what type to apply to them.
 
 This repository contains a set of examples of pre-coded machine learning data sets and data descriptions.
-They are written in the GraphQL query language, a cut-down form of Json, and can be pasted into the GraphQL plaground UI you can find at https://darl.dev/api
+
+They are written in the GraphQL query language, a cut-down form of Json, and can be pasted into the GraphQL plaground UI you can find at [https://darl.dev/api](https://darl.dev/api)
 
 Although these examples all run quickly, machine learning can be time consuming. The machine learning interface is therefore provided as a GraphQL subscription. 
-You start the subscription by supplying the graphQL source, and the system notifies you when the process is complete.
+You start the subscription by supplying the GraphQL source, and the system notifies you when the process is complete.
+
+These examples can simply be pasted into the GraphQL playground interface.
+
+ThinkBases LLC is a private organisation, not funded by government grants or private donations, so in order to pay cloud fees we need to charge a small monthly fee. You will need to have set up an account and paid for the most basic subscription to try these examples and to run your own data.
