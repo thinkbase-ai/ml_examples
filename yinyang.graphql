@@ -22,6 +22,7 @@ subscription
 			relPath: "G"
 			dataType: CATEGORICAL
 			objectLineage: "noun:01,2"
+			target: true
 		}
 	]
 	)
