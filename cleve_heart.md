@@ -37,7 +37,7 @@ The data was collected by Robert Detrano, M.D., Ph.D of the Cleveland Clinic Fou
 
 ## The target
 The target variable, labelled in this data set as _outcome_ has the results of this invasive procedure to determine arterial narrowing.
-0 is no narrowing, and 1,2,3 are varios degrees of narrowing.
+0 is no narrowing, and 1,2,3 are various degrees of narrowing.
 
 
 __Note__: "age" is a reserved word in darl, so the name of the input has been changed to "_age".
