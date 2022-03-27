@@ -6,7 +6,7 @@ Much Coronary heart disease (CHD) involves the reduction of blood flow to the he
 Other less invasive diagnostics methods have been proposed in the scientific literature including exercise electrocardiogram, thallium scintigraphy and fluoroscopy of coronary calcification. However the diagnostic accuracy of these tests only ranges between 35%-75%. Therefore, it would be beneficial to develop a computer aided diagnostic tool that could utilize the combined results of these non-invasive tests in conjunction with other patient attributes to boost the diagnostic power of these non-invasive methods with the aim ultimately replacing the current invasive gold standard.
 
 IThe included dataset comprises 303 observations, 13 features and 1 target attribute. The 13 features include the results of the aforementioned non-invasive diagnostic tests along with other relevant patient information. The target variable includes the result of the invasive coronary angiogram which represents the presence or absence of coronary artery disease in the patient with 0 representing absence of CHD and labels 1-4 representing presence of CHD. Most research using this dataset have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value
-0).
+0). In this example we are predicting all of the possible outputs.
 
 The data was collected by Robert Detrano, M.D., Ph.D of the Cleveland Clinic Foundation. 
 
