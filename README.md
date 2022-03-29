@@ -34,7 +34,7 @@ ThinkBases LLC is a private organisation, not funded by government grants or pri
 
 ## Extracting patterns.
 Tree shaped data representations, like XML and Json can encode patterns in a variety of ways.  In order to extract the data, a path is required to identify each pattern, and a separate, relative path is required to locate each data item relative to the patterns. 
-ThinkBase uses XPath for XML and JPath for Json to describe these paths. 
+ThinkBase uses [XPath]https://www.w3.org/TR/2017/REC-xpath-31-20170321/() for XML and [JPath])(https://goessner.net/articles/JsonPath/) for Json to describe these paths. 
 For CSV data it is assumed that each row contains a pattern, so the patternpath is not needed, and that a header is present that can be used to identify each column.
 The relative paths are therefore required to match these column names.
 
