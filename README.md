@@ -25,6 +25,7 @@ These examples can simply be pasted into the GraphQL playground interface.
 ## datasets
 - [Fisher's iris data](iris.md)
 - [Cleveland heart data](cleve_heart.md)
+- [Yin yang data set](yinyang.md)
 
 ## Why you need a subscription to Darl.ai
 
