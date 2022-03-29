@@ -22,6 +22,10 @@ You start the subscription by supplying the GraphQL source, and the system notif
 
 These examples can simply be pasted into the GraphQL playground interface.
 
+## datasets
+- [Fisher's iris data](iris.md)
+- [Cleveland heart data](cleve_heart.md)
+
 ## Why you need a subscription to Darl.ai
 
 ThinkBases LLC is a private organisation, not funded by government grants or private donations, so in order to pay cloud costs we need to charge a small monthly fee. You will need to have set up an account and paid for the most basic subscription to try these examples and to run your own data.
