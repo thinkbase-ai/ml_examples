@@ -22,10 +22,11 @@ You start the subscription by supplying the GraphQL source, and the system notif
 
 These examples can simply be pasted into the GraphQL playground interface.
 
-## datasets
+## Data sets
 - [Fisher's iris data](iris.md)
 - [Cleveland heart data](cleve_heart.md)
 - [Yin yang data set](yinyang.md)
+- [Sine data set](sine.md)
 
 ## Why you need a subscription to Darl.ai
 
